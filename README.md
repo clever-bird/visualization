@@ -52,6 +52,8 @@ matplotlib, seaborn и plotly. Данные с которыми мы будем 
 ## Глава IV
 ### Задание
 
+Для работы над заданием используй [этот датасет с результатами опроса](https://nextcloud-test.nsk.21-school.ru/s/aFoniKw9H38nWkP).
+
 Для начала: 
 * Открой документацию библиотек [matplotlib](https://matplotlib.org/stable/gallery/index), 
 [seaborn](https://seaborn.pydata.org/examples/index.html), [plotly](https://plotly.com/python/).
